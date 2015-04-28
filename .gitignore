@@ -1,0 +1,42 @@
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+/*.ids
+/.idea
+*.iml
+/plugin.xml
+
+
+# general HSQL database files
+/*DB.*
+*Db.properties
+*Db.script
+
+# logs
+/*.log
+/test/reports
+/logs
+
+# project release file
+/*.war
+
+# plugin release file
+/*.zip
+
+# older plugin install locations
+/web-app/plugins
+/web-app/WEB-INF/classes
+
+# "temporary" build files
+/target
+/out
+
+# Front-end dependencies, injected at compile time by bower.
+/node_modules
+/grails-app/assets/vendor
