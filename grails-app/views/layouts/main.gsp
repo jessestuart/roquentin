@@ -13,7 +13,7 @@
 		<link rel="apple-touch-icon" href="${assetPath(src: 'apple-touch-icon.png')}">
 		<link rel="apple-touch-icon" sizes="114x114" href="${assetPath(src: 'apple-touch-icon-retina.png')}">
 
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800|Playfair+Display:400,700,900" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800" rel="stylesheet" type="text/css">
 
   		<asset:stylesheet src="application.css"/>
 		<asset:javascript src="application.js"/>

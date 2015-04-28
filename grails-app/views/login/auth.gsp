@@ -18,7 +18,7 @@
                             </div>
                         </g:if>
 
-                            <h2>Please sign in</h2>
+                            <h4>Please sign in.</h4>
                             <fieldset>
                                 <div class=form-group>
                                     <input type="text" class="form-control input-lg" name="j_username"
