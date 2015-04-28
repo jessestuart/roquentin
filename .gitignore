@@ -36,6 +36,7 @@
 # "temporary" build files
 /target
 /out
+.sass-cache
 
 # Front-end dependencies, injected at compile time by bower.
 /node_modules
