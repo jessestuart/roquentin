@@ -4,7 +4,6 @@
   "author": "Jesse Stuart",
   "version": "1.0.0",
   "license": "MIT",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/jessestuart/roquentin.git"
@@ -23,5 +22,13 @@
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-remote-reporter": "^0.2.0",
     "protractor": "^4.0.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true,
+  "dependencies": {
+    "snyk": "^1.190.0"
   }
 }
