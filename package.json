@@ -22,6 +22,6 @@
     "karma-jasmine": "^0.3.5",
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-remote-reporter": "^0.2.0",
-    "protractor": "^4.0.0"
+    "protractor": "^6.0.0"
   }
 }
